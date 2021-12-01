@@ -1,0 +1,153 @@
+GEO ID,ENA project ID,Projects,Tumor type,Platform,Have Pretreatment Expression data,Patient ID,Sample ID,Number of mutations (Non-Syn),Gender(M0 F1),Age,OS,OS.Event,PFS,PFS.Event,Date Type ,Treatment,Site,Response,RECIST,Best RECIST response,Naive,Mutation,Neoantigen,Stage,MAPKi,Baseline,Pretreatment,Smoking,Drug,Sample time_point
+GSE78220,PRJNA312948,Hugo2016_PD1_Melanoma_RNASeq,Melanoma,,TRUE,Pt1,SRR3184279,25.703125,1,66,607,1,,,day,Pembrolizumab,,0,0,PD,,,,M1b,0,,,,,Pre-treatment
+GSE78220,PRJNA312948,Hugo2016_PD1_Melanoma_RNASeq,Melanoma,,TRUE,Pt2,SRR3184280,30.359375,0,55,927,0,,,day,Pembrolizumab,,1,2,PR,,,,M1c,0,,,,,Pre-treatment
+GSE78220,PRJNA312948,Hugo2016_PD1_Melanoma_RNASeq,Melanoma,,TRUE,Pt4,SRR3184281,62.265625,0,62,948,0,,,day,Pembrolizumab,,1,2,PR,,,,M1c,1,,,,,Pre-treatment
+GSE78220,PRJNA312948,Hugo2016_PD1_Melanoma_RNASeq,Melanoma,,TRUE,Pt5,SRR3184282,4.9375,0,61,439,0,,,day,Pembrolizumab,,1,2,PR,,,,M1c,0,,,,,Pre-treatment
+GSE78220,PRJNA312948,Hugo2016_PD1_Melanoma_RNASeq,Melanoma,,TRUE,Pt6,SRR3184283,3.71875,0,51,882,0,,,day,Pembrolizumab,,1,2,PR,,,,M1c,1,,,,,Pre-treatment
+GSE78220,PRJNA312948,Hugo2016_PD1_Melanoma_RNASeq,Melanoma,,TRUE,Pt7,SRR3184284,19.015625,1,55,662,1,,,day,Pembrolizumab,,0,0,PD,,,,M1c,0,,,,,Pre-treatment
+GSE78220,PRJNA312948,Hugo2016_PD1_Melanoma_RNASeq,Melanoma,,TRUE,Pt8,SRR3184285,12.609375,0,69,,0,,,day,Pembrolizumab,,1,3,CR,,,,M1a,0,,,,,Pre-treatment
+GSE78220,PRJNA312948,Hugo2016_PD1_Melanoma_RNASeq,Melanoma,,TRUE,Pt9,SRR3184286,7.734375,0,68,1054,0,,,day,Pembrolizumab,,1,3,CR,,,,M0,0,,,,,Pre-treatment
+GSE78220,PRJNA312948,Hugo2016_PD1_Melanoma_RNASeq,Melanoma,,TRUE,Pt10,SRR3184287,3.625,0,60,387,0,,,day,Pembrolizumab,,0,0,PD,,,,M1a,1,,,,,Pre-treatment
+GSE78220,PRJNA312948,Hugo2016_PD1_Melanoma_RNASeq,Melanoma,,TRUE,Pt12,SRR3184288,1.625,0,59,327,1,,,day,Pembrolizumab,,0,0,PD,,,,M1c,0,,,,,Pre-treatment
+GSE78220,PRJNA312948,Hugo2016_PD1_Melanoma_RNASeq,Melanoma,,TRUE,Pt13,SRR3184289,7.1875,1,53,917,0,,,day,Pembrolizumab,,1,3,CR,,,,M1c,0,,,,,Pre-treatment
+GSE78220,PRJNA312948,Hugo2016_PD1_Melanoma_RNASeq,Melanoma,,TRUE,Pt14,SRR3184290,22.890625,1,27,54,0,,,day,Pembrolizumab,,0,0,PD,,,,M1c,0,,,,,Pre-treatment
+GSE78220,PRJNA312948,Hugo2016_PD1_Melanoma_RNASeq,Melanoma,,TRUE,Pt15,SRR3184291,8.171875,0,70,980,1,,,day,Pembrolizumab,,1,2,PR,,,,M1b,1,,,,,Pre-treatment
+GSE78220,PRJNA312948,Hugo2016_PD1_Melanoma_RNASeq,Melanoma,,TRUE,Pt16,SRR3184292,8.21875,0,19,186,1,,,day,Pembrolizumab,,0,0,PD,,,,M1b,1,,,,,Pre-treatment
+GSE78220,PRJNA312948,Hugo2016_PD1_Melanoma_RNASeq,Melanoma,,TRUE,Pt19,SRR3184293,10.234375,0,45,1060,0,,,day,Pembrolizumab,,1,2,PR,,,,M1c,0,,,,,Pre-treatment
+GSE78220,PRJNA312948,Hugo2016_PD1_Melanoma_RNASeq,Melanoma,,TRUE,Pt20,SRR3184294,9.015625,1,63,337,1,,,day,Pembrolizumab,,0,0,PD,,,,M1c,0,,,,,Pre-treatment
+GSE78220,PRJNA312948,Hugo2016_PD1_Melanoma_RNASeq,Melanoma,,TRUE,Pt22,SRR3184295,1.140625,0,55,182,1,,,day,Pembrolizumab,,0,0,PD,,,,M1c,0,,,,,Pre-treatment
+GSE78220,PRJNA312948,Hugo2016_PD1_Melanoma_RNASeq,Melanoma,,TRUE,Pt23,SRR3184296,4.390625,0,63,103,1,,,day,Pembrolizumab,,0,0,PD,,,,M1c,1,,,,,Pre-treatment
+GSE78220,PRJNA312948,Hugo2016_PD1_Melanoma_RNASeq,Melanoma,,TRUE,Pt25,SRR3184297,2.171875,0,74,262,1,,,day,Pembrolizumab,,0,0,PD,,,,M1c,1,,,,,Pre-treatment
+GSE78220,PRJNA312948,Hugo2016_PD1_Melanoma_RNASeq,Melanoma,,TRUE,Pt27A,SRR3184298,35.890625,0,83,548,0,,,day,Pembrolizumab,,1,3,CR,,,,M1c,0,,,,,Pre-treatment
+GSE78220,PRJNA312948,Hugo2016_PD1_Melanoma_RNASeq,Melanoma,,TRUE,Pt27B,SRR3184299,35.890625,0,83,548,0,,,day,Pembrolizumab,,1,3,CR,,,,M1c,0,,,,,Pre-treatment
+GSE78220,PRJNA312948,Hugo2016_PD1_Melanoma_RNASeq,Melanoma,,TRUE,Pt28,SRR3184300,7.546875,0,82,439,1,,,day,Pembrolizumab,,1,2,PR,,,,M1c,0,,,,,Pre-treatment
+GSE78220,PRJNA312948,Hugo2016_PD1_Melanoma_RNASeq,Melanoma,,TRUE,Pt29,SRR3184301,3.8125,0,84,269,1,,,day,Pembrolizumab,,0,0,PD,,,,M1c,1,,,,,Pre-treatment
+GSE78220,PRJNA312948,Hugo2016_PD1_Melanoma_RNASeq,Melanoma,,TRUE,Pt31,SRR3184302,9.703125,0,47,704,0,,,day,Pembrolizumab,,0,0,PD,,,,M1c,0,,,,,Pre-treatment
+GSE78220,PRJNA312948,Hugo2016_PD1_Melanoma_RNASeq,Melanoma,,TRUE,Pt32,SRR3184303,4.078125,0,47,171,1,,,day,Pembrolizumab,,0,0,PD,,,,M1c,1,,,,,Pre-treatment
+GSE78220,PRJNA312948,Hugo2016_PD1_Melanoma_RNASeq,Melanoma,,TRUE,Pt35,SRR3184304,4.890625,1,65,427,0,,,day,Pembrolizumab,,1,2,PR,,,,M1c,1,,,,,Pre-treatment
+GSE78220,PRJNA312948,Hugo2016_PD1_Melanoma_RNASeq,Melanoma,,TRUE,Pt37,SRR3184305,8.703125,1,70,364,0,,,day,Pembrolizumab,,1,2,PR,,,,M1c,1,,,,,Pre-treatment
+GSE78220,PRJNA312948,Hugo2016_PD1_Melanoma_RNASeq,Melanoma,,TRUE,Pt38,SRR3184306,1.265625,1,57,448,0,,,day,Pembrolizumab,,1,2,PR,,,,M1c,1,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,2,ERR2208941,,1,61,65,1,13,1,day,Pembrolizumab,SQ,0,0,PD,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,3,ERR2208949,,0,50,59,1,23,1,day,Nivolumab,SQ,0,0,PD,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,4,ERR3262564,,0,84,22,1,23,1,day,Pembrolizumab,SQ,0,0,PD,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,5,ERR2208968,,0,67,155,1,39,1,day,Pembrolizumab,SQ,0,0,PD,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,6,ERR2208973,,0,68,94,1,42,1,day,Nivolumab,LN,0,0,PD,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,7,ERR2208974,,1,57,80,1,47,1,day,Nivolumab,LN,0,0,PD,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,8,ERR3262565,,1,85,58,1,58,1,day,Nivolumab,SQ,0,0,PD,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,9,ERR2208977,,1,70,99,1,71,1,day,Pembrolizumab,SQ,0,0,PD,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,10,ERR2208929,,0,90,551,0,76,1,day,Pembrolizumab,SQ,0,0,PD,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,11,ERR2208930,,0,66,166,1,78,1,day,Pembrolizumab,SQ,0,0,PD,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,12,ERR2208931,,0,52,199,1,80,1,day,Pembrolizumab,SQ,0,1,SD,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,13,ERR2208933,,0,69,96,1,82,1,day,Pembrolizumab,SQ,0,0,PD,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,14,ERR2208934,,0,58,993,1,83,1,day,Pembrolizumab,Mucosa,0,0,PD,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,15,ERR2208935,,1,76,300,0,84,1,day,Pembrolizumab,SQ,0,0,PD,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,16,ERR2208936,,0,55,169,1,84,1,day,Pembrolizumab,LN,0,0,PD,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,17,ERR2208938,,0,37,258,1,96,1,day,Pembrolizumab,SQ,0,0,PD,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,18,ERR2208939,,0,62,228,1,100,1,day,Pembrolizumab,SQ,0,0,PD,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,19,ERR2208940,,0,54,385,1,125,1,day,Pembrolizumab,SQ,0,1,SD,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,21,ERR2208942,,0,67,551,1,166,1,day,Pembrolizumab,SQ,0,1,SD,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,23,ERR2208943,,0,40,191,1,191,1,day,Nivolumab,SQ,0,1,SD,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,25,ERR2208945,,0,49,897,1,271,1,day,Nivolumab,SQ,1,2,PR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,27,ERR2208946,,0,76,1067,1,314,1,day,Pembrolizumab,SQ,1,2,PR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,29,ERR2208948,,0,55,825,1,335,1,day,Pembrolizumab,SQ,0,1,SD,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,30,ERR3262563,,1,86,581,0,358,1,day,Pembrolizumab,SQ,0,1,SD,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,34,ERR2208951,,0,78,878,1,544,1,day,Pembrolizumab,LN,1,2,PR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,35,ERR2208952,,1,55,1091,0,586,1,day,Pembrolizumab,SQ,1,2,PR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,36,ERR2208953,,0,76,607,1,590,1,day,Nivolumab,SQ,1,2,PR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,38,ERR2208954,,1,69,1547,0,755,1,day,Pembrolizumab,SQ,1,2,PR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,40,ERR2208956,,0,78,845,0,845,0,day,Pembrolizumab,SQ,1,2,PR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,41,ERR2208958,,1,61,886,0,870,1,day,Pembrolizumab,SQ,1,2,PR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,42,ERR2208959,,1,59,891,0,891,0,day,Pembrolizumab,SQ,1,3,CR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,44,ERR2208960,,1,45,1075,0,1075,0,day,Pembrolizumab,LN,1,2,PR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,45,ERR2208961,,0,82,1085,0,1085,0,day,Pembrolizumab,SQ,1,2,PR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,46,ERR2208962,,0,71,1098,0,1098,0,day,Pembrolizumab,SQ,1,2,PR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,47,ERR2208964,,0,62,1174,0,1174,0,day,Pembrolizumab,SQ,1,2,PR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,48,ERR2208966,,0,40,1189,0,1189,0,day,Pembrolizumab,SQ,1,2,PR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,49,ERR2208967,,1,72,1328,0,1328,0,day,Nivolumab,SQ,1,3,CR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,50,ERR2208969,,0,86,1342,0,1342,0,day,Nivolumab,SQ,1,3,CR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,52,ERR2208970,,1,63,1553,0,1553,0,day,Pembrolizumab,SQ,1,2,PR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,53,ERR2208971,,1,71,1589,0,1589,0,day,Pembrolizumab,LN,1,3,CR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1_Melanoma_RNASeq,Melanoma,,TRUE,54,ERR2208972,,1,52,1603,0,1603,0,day,Pembrolizumab,SQ,1,2,PR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1+CTLA4_Melanoma_RNASeq,Melanoma,,TRUE,1,ERR2208888,,1,42,689,0,15,1,day,Ipilimumab + Pembrolizumab,SQ,0,0,PD,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1+CTLA4_Melanoma_RNASeq,Melanoma,,TRUE,2,ERR2208898,,0,41,530,0,34,1,day,Ipilimumab + Pembrolizumab,LN,0,0,PD,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1+CTLA4_Melanoma_RNASeq,Melanoma,,TRUE,6,ERR2208924,,0,75,108,1,41,1,day,Ipilimumab + Nivolumab,LN,0,0,PD,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1+CTLA4_Melanoma_RNASeq,Melanoma,,TRUE,7,ERR3262562,,0,59,169,0,81,1,day,Ipilimumab + Nivolumab,SQ,1,2,PR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1+CTLA4_Melanoma_RNASeq,Melanoma,,TRUE,8,ERR2208926,,0,55,637,0,81,1,day,Ipilimumab + Pembrolizumab,LN,0,0,PD,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1+CTLA4_Melanoma_RNASeq,Melanoma,,TRUE,10,ERR2208889,,0,51,176,1,81,1,day,Ipilimumab + Pembrolizumab,LN,0,0,PD,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1+CTLA4_Melanoma_RNASeq,Melanoma,,TRUE,12,ERR2208890,,1,55,293,0,82,1,day,Ipilimumab + Nivolumab,Lung,0,0,PD,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1+CTLA4_Melanoma_RNASeq,Melanoma,,TRUE,13,ERR2208892,,1,68,357,1,108,1,day,Ipilimumab + Nivolumab,SQ,1,2,PR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1+CTLA4_Melanoma_RNASeq,Melanoma,,TRUE,14,ERR2208893,,1,47,691,0,123,1,day,Ipilimumab + Pembrolizumab,SQ,0,1,SD,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1+CTLA4_Melanoma_RNASeq,Melanoma,,TRUE,15,ERR2208894,,0,57,660,1,152,1,day,Ipilimumab + Pembrolizumab,SQ,0,1,SD,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1+CTLA4_Melanoma_RNASeq,Melanoma,,TRUE,17,ERR2208895,,1,48,196,0,196,0,day,Ipilimumab + Nivolumab,LN,1,2,PR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1+CTLA4_Melanoma_RNASeq,Melanoma,,TRUE,19,ERR2208896,,0,56,635,0,301,1,day,Ipilimumab + Pembrolizumab,SQ,0,1,SD,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1+CTLA4_Melanoma_RNASeq,Melanoma,,TRUE,20,ERR2208899,,0,57,538,0,386,1,day,Ipilimumab + Pembrolizumab,LN,0,1,SD,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1+CTLA4_Melanoma_RNASeq,Melanoma,,TRUE,21,ERR2208900,,0,63,410,0,410,0,day,Ipilimumab + Nivolumab,SQ,1,2,PR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1+CTLA4_Melanoma_RNASeq,Melanoma,,TRUE,23,ERR2208901,,1,51,506,0,506,0,day,Ipilimumab + Pembrolizumab,Brain,1,2,PR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1+CTLA4_Melanoma_RNASeq,Melanoma,,TRUE,24,ERR2208902,,0,34,1203,0,509,1,day,Ipilimumab + Nivolumab,LN,1,2,PR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1+CTLA4_Melanoma_RNASeq,Melanoma,,TRUE,25,ERR2208903,,1,67,518,1,518,0,day,Ipilimumab + Pembrolizumab,LN,0,1,SD,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1+CTLA4_Melanoma_RNASeq,Melanoma,,TRUE,26,ERR2208904,,0,75,544,0,544,0,day,Ipilimumab + Pembrolizumab,LN,1,3,CR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1+CTLA4_Melanoma_RNASeq,Melanoma,,TRUE,27,ERR2208906,,0,49,546,0,546,0,day,Ipilimumab + Pembrolizumab,Abdomen,1,3,CR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1+CTLA4_Melanoma_RNASeq,Melanoma,,TRUE,32,ERR2208907,,0,71,597,0,597,0,day,Ipilimumab + Pembrolizumab,LN,1,3,CR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1+CTLA4_Melanoma_RNASeq,Melanoma,,TRUE,33,ERR2208909,,0,73,609,0,609,0,day,Ipilimumab + Pembrolizumab,SQ,1,2,PR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1+CTLA4_Melanoma_RNASeq,Melanoma,,TRUE,34,ERR2208910,,0,51,623,0,623,0,day,Ipilimumab + Pembrolizumab,Lung,1,3,CR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1+CTLA4_Melanoma_RNASeq,Melanoma,,TRUE,35,ERR2208912,,0,72,627,0,627,0,day,Ipilimumab + Pembrolizumab,SQ,1,3,CR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1+CTLA4_Melanoma_RNASeq,Melanoma,,TRUE,36,ERR2208914,,1,74,637,0,637,0,day,Ipilimumab + Pembrolizumab,SQ,1,3,CR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1+CTLA4_Melanoma_RNASeq,Melanoma,,TRUE,37,ERR2208915,,0,76,637,0,637,0,day,Ipilimumab + Pembrolizumab,LN,1,2,PR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1+CTLA4_Melanoma_RNASeq,Melanoma,,TRUE,38,ERR2208916,,1,59,650,0,650,0,day,Ipilimumab + Pembrolizumab,SQ,1,3,CR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1+CTLA4_Melanoma_RNASeq,Melanoma,,TRUE,44,ERR2208918,,0,68,695,0,695,0,day,Ipilimumab + Pembrolizumab,SQ,1,2,PR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1+CTLA4_Melanoma_RNASeq,Melanoma,,TRUE,45,ERR2208919,,0,70,721,0,721,0,day,Ipilimumab + Pembrolizumab,Mucosa,1,3,CR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1+CTLA4_Melanoma_RNASeq,Melanoma,,TRUE,46,ERR2208920,,1,54,721,0,721,0,day,Ipilimumab + Pembrolizumab,Lung,1,3,CR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1+CTLA4_Melanoma_RNASeq,Melanoma,,TRUE,47,ERR2208921,,1,24,732,0,732,0,day,Ipilimumab + Pembrolizumab,SQ,1,2,PR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1+CTLA4_Melanoma_RNASeq,Melanoma,,TRUE,49,ERR2208922,,0,36,775,0,775,0,day,Ipilimumab + Pembrolizumab,LN,1,3,CR,,,,,,,,,,Pre-treatment
+,PRJEB23709,Gide2019_PD1+CTLA4_Melanoma_RNASeq,Melanoma,,TRUE,50,ERR2208923,,0,68,904,0,904,0,day,Ipilimumab + Pembrolizumab,LN,1,2,PR,,,,,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Naive,Melanoma,,TRUE,Pt10,SRR5088887,1.704545455,1,81,256,1,119,1,day,Nivolumab,,0,1,SD,1,75,33,M1A,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Naive,Melanoma,,TRUE,Pt11,SRR5088916,2.409090909,1,61,837,1,59,1,day,Nivolumab,,0,0,PD,1,106,67,,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Naive,Melanoma,,TRUE,Pt18,SRR5088891,4.931818182,0,53,1073,0,519,1,day,Nivolumab,,1,2,PR,1,217,137,M1A,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Naive,Melanoma,,TRUE,Pt23,SRR5088818,14.68181818,1,53,52,1,52,1,day,Nivolumab,,0,0,PD,1,646,392,M1C,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Naive,Melanoma,,TRUE,Pt24,SRR5088906,0.022727273,0,63,149,0,50,1,day,Nivolumab,,0,0,PD,1,1,1,M1C,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Naive,Melanoma,,TRUE,Pt27,SRR5088908,4.159090909,0,65,475,1,50,1,day,Nivolumab,,0,0,PD,1,183,119,M1C,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Naive,Melanoma,,TRUE,Pt28,SRR5088922,0.954545455,1,79,740,1,61,1,day,Nivolumab,,0,0,PD,1,42,16,,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Naive,Melanoma,,TRUE,Pt29,SRR5088909,9.363636364,1,57,273,1,50,1,day,Nivolumab,,0,0,PD,1,412,238,M1C,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Naive,Melanoma,,TRUE,Pt3,SRR5088878,4.136363636,0,52,1144,0,583,1,day,Nivolumab,,1,2,PR,1,182,119,,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Naive,Melanoma,,TRUE,Pt30,SRR5088911,1.5,1,89,1053,0,603,1,day,Nivolumab,,1,3,CR,1,66,35,M1A,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Naive,Melanoma,,TRUE,Pt31,SRR5088913,10.22727273,1,56,961,0,50,1,day,Nivolumab,,0,0,PD,1,450,294,M1A,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Naive,Melanoma,,TRUE,Pt4,SRR5088880,6.477272727,1,62,633,1,175,1,day,Nivolumab,,0,1,SD,1,285,151,M1B,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Naive,Melanoma,,TRUE,Pt44,SRR5088924,8.295454545,0,61,1093,0,560,1,day,Nivolumab,,1,2,PR,1,365,232,,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Naive,Melanoma,,TRUE,Pt5,SRR5088883,1.181818182,1,58,222,1,56,1,day,Nivolumab,,0,0,PD,1,52,13,M1C,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Naive,Melanoma,,TRUE,Pt59,SRR5088821,9.818181818,1,49,708,1,111,1,day,Nivolumab,,0,1,SD,1,432,220,M1A,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Naive,Melanoma,,TRUE,Pt62,SRR5088856,,0,51,472,1,56,1,day,Nivolumab,,0,0,PD,1,,,M1C,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Naive,Melanoma,,TRUE,Pt66,SRR5088826,3.477272727,1,49,542,1,59,1,day,Nivolumab,,0,0,PD,1,153,92,,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Naive,Melanoma,,TRUE,Pt72,SRR5088861,9.931818182,1,43,770,1,333,1,day,Nivolumab,,1,2,PR,1,437,302,M1B,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Naive,Melanoma,,TRUE,Pt76,SRR5088827,5.090909091,0,60,10,1,10,1,day,Nivolumab,,0,0,PD,1,224,141,M1C,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Naive,Melanoma,,TRUE,Pt77,SRR5088846,1.113636364,1,56,471,1,163,1,day,Nivolumab,,0,1,SD,1,49,27,M1A,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Naive,Melanoma,,TRUE,Pt8,SRR5088914,1.977272727,0,40,259,1,52,1,day,Nivolumab,,0,0,PD,1,87,44,M0,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Naive,Melanoma,,TRUE,Pt84,SRR5088850,0.25,1,48,151,1,50,1,day,Nivolumab,,0,0,PD,1,11,10,M1C,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Naive,Melanoma,,TRUE,Pt89,SRR5088831,4.863636364,0,56,844,1,219,1,day,Nivolumab,,0,1,SD,1,214,115,M1A,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Naive,Melanoma,,TRUE,Pt9,SRR5088885,9.295454545,0,46,92,1,66,1,day,Nivolumab,,0,0,PD,1,409,246,M1C,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Naive,Melanoma,,TRUE,Pt94,SRR5088843,9.204545455,0,41,981,0,729,0,day,Nivolumab,,1,3,CR,1,405,239,M1C,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Prog,Melanoma,,TRUE,Pt1,SRR5088813,,0,48,160,1,54,1,day,Nivolumab,,0,0,PD,0,,,M1C,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Prog,Melanoma,,TRUE,Pt101,SRR5088834,0.227272727,1,47,834,0,612,1,day,Nivolumab,,1,2,PR,0,10,5,M1A,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Prog,Melanoma,,TRUE,Pt103,SRR5088872,0.477272727,1,52,484,0,50,1,day,Nivolumab,,0,0,PD,0,21,5,M1B,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Prog,Melanoma,,TRUE,Pt106,SRR5088926,15.90909091,0,53,91,1,56,1,day,Nivolumab,,0,0,PD,0,700,219,M1C,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Prog,Melanoma,,TRUE,Pt17,SRR5088890,0.454545455,1,48,57,1,48,1,day,Nivolumab,,0,0,PD,0,20,13,M1C,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Prog,Melanoma,,TRUE,Pt2,SRR5088815,,0,75,275,1,115,0,day,Nivolumab,,0,1,SD,0,,,M1B,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Prog,Melanoma,,TRUE,Pt26,SRR5088920,2.840909091,1,22,952,0,294,1,day,Nivolumab,,0,1,SD,0,125,86,M1B,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Prog,Melanoma,,TRUE,Pt34,SRR5088929,4.818181818,0,71,834,0,834,0,day,Nivolumab,,1,2,PR,0,212,144,M1B,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Prog,Melanoma,,TRUE,Pt36,SRR5088898,0.045454545,0,58,1081,0,737,0,day,Nivolumab,,0,1,SD,0,2,1,M1C,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Prog,Melanoma,,TRUE,Pt37,SRR5088900,0.659090909,0,63,646,1,176,1,day,Nivolumab,,0,1,SD,0,29,19,M1A,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Prog,Melanoma,,TRUE,Pt38,SRR5088895,10.20454545,1,54,167,1,167,1,day,Nivolumab,,0,1,SD,0,449,290,M1C,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Prog,Melanoma,,TRUE,Pt39,SRR5088819,,0,40,166,1,57,1,day,Nivolumab,,0,0,PD,0,,,M1C,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Prog,Melanoma,,TRUE,Pt46,SRR5088904,4.090909091,0,79,227,1,51,1,day,Nivolumab,,0,0,PD,0,180,105,M1A,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Prog,Melanoma,,TRUE,Pt47,SRR5088836,22.84090909,0,52,718,1,57,1,day,Nivolumab,,0,0,PD,0,1005,491,M1B,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Prog,Melanoma,,TRUE,Pt48,SRR5088897,2.25,0,44,1046,0,1046,0,day,Nivolumab,,1,3,CR,0,99,63,M1C,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Prog,Melanoma,,TRUE,Pt49,SRR5088824,19.36363636,1,52,827,0,827,0,day,Nivolumab,,1,2,PR,0,852,529,,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Prog,Melanoma,,TRUE,Pt52,SRR5088839,8.022727273,1,45,476,1,57,1,day,Nivolumab,,0,0,PD,0,353,236,M1C,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Prog,Melanoma,,TRUE,Pt65,SRR5088857,59.52272727,1,63,692,0,280,0,day,Nivolumab,,0,1,SD,0,2619,1570,M1B,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Prog,Melanoma,,TRUE,Pt67,SRR5088840,0.363636364,1,33,1032,0,281,1,day,Nivolumab,,0,1,SD,0,16,9,M1C,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Prog,Melanoma,,TRUE,Pt78,SRR5088864,,0,33,78,1,50,1,day,Nivolumab,,0,0,PD,0,,,M1C,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Prog,Melanoma,,TRUE,Pt79,SRR5088849,12.36363636,0,64,218,1,171,1,day,Nivolumab,,0,1,SD,0,544,328,,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Prog,Melanoma,,TRUE,Pt82,SRR5088822,0.75,1,60,429,1,220,1,day,Nivolumab,,0,1,SD,0,33,14,M1C,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Prog,Melanoma,,TRUE,Pt85,SRR5088829,2.931818182,0,66,904,0,49,1,day,Nivolumab,,0,0,PD,0,129,85,M1A,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Prog,Melanoma,,TRUE,Pt90,SRR5088866,6.431818182,1,60,174,1,44,1,day,Nivolumab,,0,0,PD,0,283,162,M1C,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Prog,Melanoma,,TRUE,Pt92,SRR5088867,14.59090909,0,58,333,1,190,1,day,Nivolumab,,0,1,SD,0,642,388,,,,,,,Pre-treatment
+GSE91061,PRJNA356761,Riaz2017_PD1_Melanoma_RNASeq_Ipi.Prog,Melanoma,,TRUE,Pt98,SRR5088853,0.454545455,0,74,747,1,408,1,day,Nivolumab,,0,1,SD,0,20,13,M1C,,,,,,Pre-treatment
